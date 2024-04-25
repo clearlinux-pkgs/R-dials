@@ -7,7 +7,7 @@
 #
 Name     : R-dials
 Version  : 1.2.1
-Release  : 5
+Release  : 6
 URL      : https://cran.r-project.org/src/contrib/dials_1.2.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/dials_1.2.1.tar.gz
 Summary  : Tools for Creating Tuning Parameter Values
